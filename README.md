@@ -33,11 +33,11 @@ Fornece um ambiente pronto pra você desenvolver e rodar suas aplicações sem s
 
 Exemplos no Azure:
 
--Azure App Service
+- Azure App Service
 
--Azure Functions
+- Azure Functions
 
--Azure SQL Database
+- Azure SQL Database
 
 ## SaaS – Software as a Service (Software como Serviço)
 
@@ -48,11 +48,11 @@ Exemplos no Azure:
 
 Exemplos:
 
--Microsoft 365 (Word, Excel, Outlook online)
+- Microsoft 365 (Word, Excel, Outlook online)
 
--Dynamics 365 (CRM e ERP)
+- Dynamics 365 (CRM e ERP)
 
--Azure DevOps Services (gestão de projetos e repositórios)
+- Azure DevOps Services (gestão de projetos e repositórios)
 
 # Categorias que explorei
 
@@ -64,21 +64,21 @@ Exemplos:
 
 Serviços para processar e rodar aplicações.
 
--Azure Virtual Machines (VMs): Uma máquina/servidor completo na nuvem.
+- Azure Virtual Machines (VMs): Uma máquina/servidor completo na nuvem.
 
--Azure App Service: Hospede sites e APIs facilmente, sem cuidar de servidor.
+- Azure App Service: Hospede sites e APIs facilmente, sem cuidar de servidor.
 
--Azure Functions: Execute códigos sob demanda (serverless) e pague só pelo que usar.
+- Azure Functions: Execute códigos sob demanda (serverless) e pague só pelo que usar.
 
 ### Storage (Armazenamento)
 
 Serviços para guardar arquivos, dados e backups.
 
--Azure Blob Storage: Armazene imagens, vídeos, documentos etc.
+- Azure Blob Storage: Armazene imagens, vídeos, documentos etc.
 
--Azure File Storage: Compartilhamento de arquivos como um drive em rede.
+- Azure File Storage: Compartilhamento de arquivos como um drive em rede.
 
--Azure Table Storage: Armazenamento NoSQL simples para dados estruturados.
+- Azure Table Storage: Armazenamento NoSQL simples para dados estruturados.
 
 ### Database (Banco de Dados)
 
@@ -90,3 +90,56 @@ Serviços para guardar arquivos, dados e backups.
 
 -Azure Database for MySQL/PostgreSQL: Versões gerenciadas desses bancos famosos.
 
+-------- Desafio 2 ----
+
+# Principais beneficios da nuvem 
+
+Temos 8 beneficios da Nuvem :
+
+### 1. Alta Disponibilidade
+
+Garantia de que os serviços estarão disponíveis o tempo todo, mesmo em caso de falhas ou interrupções.
+
+Como é feito: Com redundância e distribuição global dos serviços (via SLAs do Azure).
+
+### 2. Escalabilidade
+
+Capacidade de aumentar ou reduzir recursos conforme a necessidade.Você só paga pelo que realmente usa (modelo baseado em consumo).
+
+Tipos:
+
+- Vertical: mais CPU/RAM na mesma máquina.
+
+- Horizontal: adicionar/remover instâncias (como mais VMs).
+
+### 3. Elasticidade
+
+Capacidade de ajustar automaticamente os recursos durante picos ou quedas de demanda.
+
+### 4. Confiabilidade
+
+O que é: A nuvem é projetada para ser resiliente. Mesmo se uma região falhar, outras continuam funcionando.
+
+### 5. Previsibilidade
+
+Controle mais confiável de custos e desempenho.
+
+### 6. Segurança 
+
+A nuvem oferece ferramentas para proteção de dados e sistemas. Em modelos como PaaS/SaaS, parte da segurança é gerenciada pelo provedor; em IaaS, o cliente tem mais controle e responsabilidade.
+
+### 7. Segurança 
+
+Governança
+
+Monitoramento e conformidade com as políticas da empresa. Como:
+
+- Auditorias automáticas.
+
+- Aplicação automática de patches.
+
+- Prevenção contra má configuração.
+
+### 8. Gerenciabilidade
+
+Facilidade para gerenciar recursos em nuvem com Linha de comando (CLI), PowerShell,APIs. Além do escalonamento automático e monitoramento de uso e desempenho.
