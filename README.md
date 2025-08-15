@@ -143,3 +143,13 @@ Monitoramento e conformidade com as políticas da empresa. Como:
 ### 8. Gerenciabilidade
 
 Facilidade para gerenciar recursos em nuvem com Linha de comando (CLI), PowerShell,APIs. Além do escalonamento automático e monitoramento de uso e desempenho.
+
+# Criando uma maquina virtual 
+
+Abaixo temos a tela inicial para criação da maquina virtual 
+<img width="1901" height="872" alt="image" src="https://github.com/user-attachments/assets/c2ea2e3e-3bcd-497d-a16e-46073394ac14" />
+
+Ao escolhermos criar uma maquina virtual temos as configurações básicas como: Assinatura: assinatura ativa, grupo de recursos,nome da VM, região, imagem e tamanho
+
+<img width="1159" height="717" alt="image" src="https://github.com/user-attachments/assets/93f200d1-a59d-4846-8f3d-5de486520dd4" />
+
