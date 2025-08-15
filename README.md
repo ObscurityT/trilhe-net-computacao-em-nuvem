@@ -149,7 +149,16 @@ Facilidade para gerenciar recursos em nuvem com Linha de comando (CLI), PowerShe
 Abaixo temos a tela inicial para criação da maquina virtual 
 <img width="1901" height="872" alt="image" src="https://github.com/user-attachments/assets/c2ea2e3e-3bcd-497d-a16e-46073394ac14" />
 
-Ao escolhermos criar uma maquina virtual temos as configurações básicas como: Assinatura: assinatura ativa, grupo de recursos,nome da VM, região, imagem e tamanho
+Para criar uma maquina virtual temos as configurações básicas como: Assinatura: assinatura ativa, grupo de recursos,nome da VM, região, imagem e tamanho
 
 <img width="1159" height="717" alt="image" src="https://github.com/user-attachments/assets/93f200d1-a59d-4846-8f3d-5de486520dd4" />
+
+
+## Criando banco de dados SQL 
+
+<img width="1405" height="888" alt="image" src="https://github.com/user-attachments/assets/02b395c0-71d6-40c5-b98a-3e4a04ff8536" />
+
+Podemos escolher coisas como nome e servidor, além do custo estimado: 
+
+<img width="1076" height="692" alt="image" src="https://github.com/user-attachments/assets/97704753-7229-463e-87f0-acc0d731b7b5" />
 
